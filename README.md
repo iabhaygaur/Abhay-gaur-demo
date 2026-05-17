@@ -23,7 +23,7 @@ Welcome to my repository showcasing end-to-end exploratory data analysis (EDA) a
 ## 🛠️ Tools & Technologies Used
 * **Language:** Python
 * **Environment:** Jupyter Notebook
-* **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+* **Libraries:** Pandas, NumPy, Matplotlib, Scikit-learn
 
 ---
 
